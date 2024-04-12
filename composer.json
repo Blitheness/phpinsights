@@ -16,13 +16,21 @@
             "email": "enunomaduro@gmail.com"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/mwikberg-virta/phploc",
+            "no-api": true,
+            "name": "phploc"
+        }
+    ],
     "require": {
         "php": "^8.3",
         "ext-iconv": "*",
         "ext-json": "*",
         "ext-mbstring": "*",
         "ext-tokenizer": "*",
-        "cmgmyr/phploc": "^8.0.3",
+        "cmgmyr/phploc": "dev-main",
         "composer/semver": "^3.4",
         "friendsofphp/php-cs-fixer": "^3.53.0",
         "justinrainbow/json-schema": "^5.2.13",
