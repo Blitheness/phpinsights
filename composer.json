@@ -22,7 +22,7 @@
         "ext-json": "*",
         "ext-mbstring": "*",
         "ext-tokenizer": "*",
-        "sebastianbergmann/phploc": "dev-main",
+        "sebastianbergmann/phploc": "dev-master",
         "composer/semver": "^3.4",
         "friendsofphp/php-cs-fixer": "^3.53.0",
         "justinrainbow/json-schema": "^5.2.13",
