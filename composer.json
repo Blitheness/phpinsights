@@ -16,6 +16,13 @@
             "email": "enunomaduro@gmail.com"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/sat-hub/phploc",
+            "no-api": true
+        }
+    ],
     "require": {
         "php": "^8.3",
         "ext-iconv": "*",
